@@ -79,7 +79,10 @@ echo "所有图像压缩完成！"
 ```
 Step 3: Save your script (press Enter)
 
-Step 4: Run the script
+Step 4: Run the script 
+```bash
+cd Downloads/Wallpapers
+```
 ```bash
 chmod +x batch_compress.sh
 ```
