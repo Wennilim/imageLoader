@@ -1,26 +1,3 @@
-export const PEXELS_IMAGE_URLS = [
-  "https://images.pexels.com/photos/3466355/pexels-photo-3466355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/15014165/pexels-photo-15014165/free-photo-of-woman-walking-on-pathway-in-the-woods.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/1261731/pexels-photo-1261731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  " https://images.pexels.com/photos/12687061/pexels-photo-12687061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/13892674/pexels-photo-13892674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/105813/pexels-photo-105813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/5049/forest-trees-fog-foggy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/1083342/pexels-photo-1083342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/879794/pexels-photo-879794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/2929244/pexels-photo-2929244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/2254030/pexels-photo-2254030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/1496378/pexels-photo-1496378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/13725341/pexels-photo-13725341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/688660/pexels-photo-688660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/4383999/pexels-photo-4383999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/6037/nature-forest-trees-path.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/4099305/pexels-photo-4099305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/10634834/pexels-photo-10634834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/7263331/pexels-photo-7263331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  "https://images.pexels.com/photos/4448231/pexels-photo-4448231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-];
-
 export const LOCAL_IMAGE_URL = [
   {
     big: "/images/img1.jpg",
@@ -162,5 +139,4 @@ export const LOCAL_IMAGE_URL = [
     big: "/images/img35.jpg",
     small: "/images/img35-small.jpg",
   },
-
 ];
